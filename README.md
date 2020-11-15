@@ -1,4 +1,4 @@
-# Hi, I'm Nataly Vasalbi 👋👩‍💻
+# Hi, I'm Nataly 👋👩‍💻
 
 <!--
 **NatalyVasalbi/NatalyVasalbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
